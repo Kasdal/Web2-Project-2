@@ -13,7 +13,9 @@ Name: Milan Ples
 ```
 Download or clone the repository from [https://github.com/Kasdal/Web2-Project-2.git]
 
-```install mongo, mongoose, mongo atlas.
+```
+```
+install mongo, mongoose, mongo atlas.
 ```
 ```mkdir db
 mongod -dbpath db
