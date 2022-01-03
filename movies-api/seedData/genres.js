@@ -1,19 +1,19 @@
-const genres= [
+const genres = [
     {
-        "id": 22,
-        "name": "RPG"
+        "id": 28,
+        "name": "Action"
     },
     {
-        "id": 33,
-        "name": "Comedy"
+        "id": 12,
+        "name": "Adventure"
     },
     {
-        "id": 45,
+        "id": 16,
         "name": "Animation"
     },
     {
-        "id": 11,
-        "name": "Action"
+        "id": 35,
+        "name": "Comedy"
     }
-]
+];
 export default genres;

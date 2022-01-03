@@ -1,12 +1,12 @@
 {
-  "name": "movies-api",
+  "name": "moviesapi",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "start": "nodemon --exec babel-node index.js"
   },
-  "author": "Milan",
+  "author": "bryankeane0",
   "license": "ISC",
   "devDependencies": {
     "babel-cli": "^6.26.0",
@@ -18,11 +18,12 @@
   "dependencies": {
     "bcrypt-nodejs": "0.0.3",
     "dotenv": "^10.0.0",
+    "esm": "^3.2.25",
     "express": "^4.17.1",
     "express-async-handler": "^1.2.0",
-    "express-session": "^1.17.2",
     "jsonwebtoken": "^8.5.1",
-    "mongoose": "^6.0.13",
+    "mongoose": "^6.0.14",
+    "node-fetch": "^2.6.6",
     "passport": "^0.5.0",
     "passport-jwt": "^4.0.0",
     "uniqid": "^5.4.0"
