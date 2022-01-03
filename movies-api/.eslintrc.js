@@ -1,6 +1,6 @@
 module.exports = {
     "env": {
-        "browser": true,
+        "node": true,
         "es2021": true
     },
     "extends": [
@@ -18,5 +18,7 @@ module.exports = {
         "react"
     ],
     "rules": {
+        "semi": 1,
+        "no-console": "off"
     }
 };
