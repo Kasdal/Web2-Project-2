@@ -24,10 +24,6 @@ mongod -dbpath db
 ```npm install in the project folder. Both movies-api and reactApp to download the dependencies for the project.
 ```
 
-```bat
-git install
-```
-
 ## API Configuration
 
 ```
